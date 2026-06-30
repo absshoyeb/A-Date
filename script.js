@@ -182,7 +182,7 @@ function showFinal() {
         <p>🕒 ${selectedTime}</p>
         <p>📍 ${selectedPlace}</p>
 
-        <p>💖 I can't wait to spend the evening with you. Your Evening Belongs to Me. 💖</p>
+        <p>💖 Your Evening Belongs to Me. I can't wait to spend the evening with you. 💖</p>
       </div>
     `,
     `
